@@ -4,4 +4,4 @@ ShilpaKala is an Android app that helps artisans showcase handcrafted products b
 Due to file size, full project is hosted on Google Drive:
 
 Download here:
-https://drive.google.com/drive/folders/1gApacKFQb6_f-vzdeEGbDL3XKWkVKpBC?usp=sharing
+https://drive.google.com/file/d/1DwDeOyr-NC4NYgF1lfBWGc8sEJzKVMq7/view?usp=sharing
