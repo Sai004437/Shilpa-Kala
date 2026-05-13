@@ -1,56 +1,59 @@
-ShilpaKala – Digital Portfolio Assistant for Artisans
-📌 Overview
+Shilpa-Kala
 
-ShilpaKala is an Android application developed using Kotlin and Jetpack Compose that helps artisans create professional-looking product photos for handicrafts and handmade products.
+Shilpa-Kala is an Android application developed using Kotlin and Jetpack Compose that helps artisans create professional-looking product photos for handicrafts and handmade products. The app is designed to improve the presentation and branding of local artisan products through a simple and user-friendly mobile interface.
 
-The application focuses on improving the digital presentation of products by providing a guided camera interface, branding overlays, gallery management, and sharing functionality.
+Overview
 
-✨ Features
-📷 Guided Camera Overlay for better product positioning
-🖼 Professional Product Preview Screen
-🏷 “Handmade in Karnataka” Branding Label
-💰 Product Name & Price Tagging
-👤 Artisan Name Branding
-💾 Local Image Storage
-🖼 Gallery View for Saved Products
-📤 Share Images to Social Media Apps
-🎨 Modern UI built with Jetpack Compose
-🛠 Tech Stack
-Language
+Many artisans struggle with product photography and digital presentation while selling products online or through social media platforms. ShilpaKala addresses this problem by providing a guided camera interface, branding overlays, product preview functionality, and image sharing support.
+
+The application focuses on helping artisans showcase their work in a cleaner and more professional format.
+
+Features
+-Guided camera overlay for product positioning
+-Professional product preview screen
+-Handmade branding label overlay
+-Product name, artisan name, and price tagging
+-Local image storage
+-Gallery for saved product photos
+-Image sharing support
+-Modern UI using Jetpack Compose
+-Technology Stack
+
+Language:
+
 Kotlin
-Frameworks & Libraries
+
+Frameworks and Libraries:
+
 Jetpack Compose
 Material 3
 CameraX
 Coil
-Tools
+
+Tools:
+
 Android Studio
-Git & GitHub
-📱 App Workflow
-Open Camera Screen
-Position Product Inside Overlay Frame
-Capture Product Photo
-Add Branding & Product Details
-Preview Final Professional Image
-Save or Share the Branded Photo
-🎯 Purpose of the Project
+Git and GitHub
+Application Workflow
+Open the camera screen
+Position the product inside the overlay guide
+Capture the product image
+Add branding and product details
+Preview the final image
+Save or share the branded photo
+Purpose
 
-Many local artisans struggle to present their products professionally online due to poor product photography.
-ShilpaKala helps improve the visual branding of handicrafts and handmade products using a simple mobile application.
+The purpose of this application is to help local artisans improve the visual presentation of their products and support digital branding using mobile technology.
 
-🚀 Future Enhancements
-Firebase Authentication
-Cloud Storage Integration
-AI-Based Product Suggestions
-Search & Product Categories
-Social Marketplace Features
-Dark Mode Support
-
-👨‍💻 Developed By
+Future Enhancements
+Firebase authentication
+Cloud storage integration
+AI-based product suggestions
+Improved gallery management
+Product categorization
+Enhanced UI animations
+Developed By
 
 Sai Krishna B
+
 Android App Development Internship Project
-
-📄 License
-
-This project is developed for educational and internship purposes.
