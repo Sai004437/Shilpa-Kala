@@ -25,35 +25,38 @@ Kotlin
 
 Frameworks and Libraries:
 
-Jetpack Compose
-Material 3
-CameraX
-Coil
+-Jetpack Compose
+-Material 3
+-CameraX
+-Coil
 
 Tools:
 
-Android Studio
-Git and GitHub
-Application Workflow
-Open the camera screen
-Position the product inside the overlay guide
-Capture the product image
-Add branding and product details
-Preview the final image
-Save or share the branded photo
-Purpose
+-Android Studio
+-Git and GitHub
+
+Application Workflow:
+
+-Open the camera screen
+-Position the product inside the overlay guide
+-Capture the product image
+-Add branding and product details
+-Preview the final image
+-Save or share the branded photo
+-Purpose
 
 The purpose of this application is to help local artisans improve the visual presentation of their products and support digital branding using mobile technology.
 
-Future Enhancements
-Firebase authentication
-Cloud storage integration
-AI-based product suggestions
-Improved gallery management
-Product categorization
-Enhanced UI animations
-Developed By
+Future Enhancements:
+
+-Firebase authentication
+-Cloud storage integration
+-AI-based product suggestions
+-Improved gallery management
+-Product categorization
+-Enhanced UI animations
+
+Developed By:
 
 Sai Krishna B
-
 Android App Development Internship Project
